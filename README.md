@@ -26,6 +26,8 @@ Source of dataset – Official NIH Website, Malaria Cell image Dataset
 This dataset consists of 27,558 image of microscopic blood samples
 The data set contains two folders-Parasitized and Uninfected.
 
+<img src="/Malaria_Uninfected.PNG" width="300">
+
 
 
 
