@@ -6,7 +6,7 @@ The purpose of this project is to analyse the images of human cells using convol
   * [Overview](#Overview)
   * [Problem_Definition](#Problem_Definition)
   * [Dataset_Description](#Dataset_Description)
-  * [Exploratory_Data_Analysis](#Exploratory_Data_Analysis)
+  * [Building CNN](#Building CNN)
   * [Data_Preprocessing](#Data_Preprocessing)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
@@ -28,13 +28,11 @@ The data set contains two folders-Parasitized and Uninfected.
 
 <img src="/Malaria_Uninfected.PNG" width="300">
 
-<img src="/Malaria_Infected.PNG" width="300">
-
 
 
 
  
-## Exploratory_Data_Analysis
+## Building CNN
 * 
 
 
