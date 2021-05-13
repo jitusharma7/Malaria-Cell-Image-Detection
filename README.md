@@ -32,8 +32,10 @@ The data set contains two folders-Parasitized and Uninfected.
 
 ## Data Preprocessing
 *Data preprocessing for Malaria dataset involves resizing and rescaling of training and testing data using ImageDataGenerator package and then giving specifications to both datasets
-Step 1:- Image Rescaling for both training and testing data set
-Step 2:- Applying predefined specification to training and testing dataset
+Step 1 
+1. Image Rescaling for both training and testing data set
+Step 2
+2. Applying predefined specification to training and testing dataset
 
 
 ## Building CNN
