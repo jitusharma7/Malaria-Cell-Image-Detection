@@ -28,6 +28,8 @@ The data set contains two folders-Parasitized and Uninfected.
 
 <img src="/Malaria_Uninfected.PNG" width="300">
 
+<img src="/Malaria_Infected.PNG" width="300">
+
 
 
 
