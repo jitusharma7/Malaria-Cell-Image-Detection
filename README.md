@@ -6,8 +6,8 @@ The purpose of this project is to analyse the images of human cells using convol
   * [Overview](#Overview)
   * [Problem_Definition](#Problem_Definition)
   * [Dataset_Description](#Dataset_Description)
+  * [Data Preprocessing](#Data Preprocessing)
   * [Building CNN](#Building CNN)
-  * [Data_Preprocessing](#Data_Preprocessing)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
   * [Business_Recommendation](#Business_Recommendation)
@@ -27,24 +27,45 @@ This dataset consists of 27,558 image of microscopic blood samples
 The data set contains two folders-Parasitized and Uninfected.
 
 <img src="/Malaria_Uninfected.PNG" width="300">
+<img src="/Malaria_Infected.PNG" width="300">
 
 
+## Data Preprocessing
+*Data preprocessing for Malaria dataset involves resizing and rescaling of training and testing data using ImageDataGenerator package and then giving specifications to both datasets
+Step 1:- Image Rescaling for both training and testing data set
+Step 2:- Applying predefined specification to training and testing dataset
 
 
- 
 ## Building CNN
-* 
+### Steps to Build Convolutional Neural Netwrok
+1. Import required libraries
+2. Initialize CNN and add Convolutional layer
+3. Pooling
+4. Add two convolutional layer
+5. Flattening
+6. Fully connected layer and output layer
 
+<img src="/Builiding%20CNN.PNG" width="300">
 
-
-## Data_Preprocessing
-* 
 
 ## Model_Building
-*
+train Model  -
+Step1:- Compile the CNN model
+Step2:- Training the CNN on Training set
+Step3:- Evaluating on Testing set
+Step4:- Comparison of accuracy and loss function
+
 
     
 ## Result
-*
+*The accuracy of model  is 96.82%. The accuaracy of model should be next to 100% in medical domain problems .
+*Loss is the penalty for a bad prediction. Basically the aim is to make the validation loss as low as possible.
+
 ## Business_Recommendation
-* 
+* CNN's are best for image classification and gives superb accuracy. Also computation is much less compared to simple ANN .
+* The algorithm generated will be helpful in the area where the expert in microscopic analysis may not be available.
+
+## Credit
+
+
+
