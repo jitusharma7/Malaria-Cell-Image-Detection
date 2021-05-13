@@ -66,6 +66,5 @@ Step4:- Comparison of accuracy and loss function
 * The algorithm generated will be helpful in the area where the expert in microscopic analysis may not be available.
 
 ## Credit
-
-
+This project has beed done as a course project on CNN deep learning technique.
 
