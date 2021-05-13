@@ -32,9 +32,8 @@ The data set contains two folders-Parasitized and Uninfected.
 
 ## Data Preprocessing
 *Data preprocessing for Malaria dataset involves resizing and rescaling of training and testing data using ImageDataGenerator package and then giving specifications to both datasets
-Step 1 
+### Steps to Data Preprocessing
 1. Image Rescaling for both training and testing data set
-Step 2
 2. Applying predefined specification to training and testing dataset
 
 
@@ -51,17 +50,17 @@ Step 2
 
 
 ## Model_Building
-train Model  -
-Step1:- Compile the CNN model
-Step2:- Training the CNN on Training set
-Step3:- Evaluating on Testing set
-Step4:- Comparison of accuracy and loss function
+### Steps to model Building
+1. Compile the CNN model
+2. Training the CNN on Training set
+3.  Evaluating on Testing set
+4.  Comparison of accuracy and loss function
 
 
     
 ## Result
-*The accuracy of model  is 96.82%. The accuaracy of model should be next to 100% in medical domain problems .
-*Loss is the penalty for a bad prediction. Basically the aim is to make the validation loss as low as possible.
+1. The accuracy of model  is 96.82%. The accuaracy of model should be next to 100% in medical domain problems .
+2. Loss is the penalty for a bad prediction. Basically the aim is to make the validation loss as low as possible.
 
 ## Business_Recommendation
 * CNN's are best for image classification and gives superb accuracy. Also computation is much less compared to simple ANN .
