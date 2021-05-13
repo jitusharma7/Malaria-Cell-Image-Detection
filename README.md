@@ -28,6 +28,7 @@ The data set contains two folders-Parasitized and Uninfected.
 
 
 
+
  
 ## Exploratory_Data_Analysis
 * 
